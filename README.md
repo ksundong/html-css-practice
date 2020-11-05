@@ -31,3 +31,5 @@
 `<table>` 태그, `<tr>`, `<th>`, `<td>` 태그, `border` 속성, `colspan`, `rowspan` 속성
 
 ### 몰랐던 것
+
+`<caption>` 태그, `<figure>` 태그, `<figcaption>` 태그, `aria-describedby` 속성
