@@ -28,8 +28,8 @@
 
 ### 알고 있던 것
 
-`<table>` 태그, `<tr>`, `<th>`, `<td>` 태그, `border` 속성, `colspan`, `rowspan` 속성
+`<table>` 태그, `<tr>`, `<th>`, `<td>` 태그, `border` 속성, `colspan`, `rowspan` 속성, `<thead>` 태그, `<tbody>` 태그
 
 ### 몰랐던 것
 
-`<caption>` 태그, `<figure>` 태그, `<figcaption>` 태그, `aria-describedby` 속성
+`<caption>` 태그, `<figure>` 태그, `<figcaption>` 태그, `aria-describedby` 속성, `<tfoot>` 태그
