@@ -32,4 +32,4 @@
 
 ### 몰랐던 것
 
-`<caption>` 태그, `<figure>` 태그, `<figcaption>` 태그, `aria-describedby` 속성, `<tfoot>` 태그
+`<caption>` 태그, `<figure>` 태그, `<figcaption>` 태그, `aria-describedby` 속성, `<tfoot>` 태그, `<col>` 태그, `<colgroup>` 태그
