@@ -33,3 +33,13 @@
 ### 몰랐던 것
 
 `<caption>` 태그, `<figure>` 태그, `<figcaption>` 태그, `aria-describedby` 속성, `<tfoot>` 태그, `<col>` 태그, `<colgroup>` 태그
+
+---
+
+## 이미지 태그
+
+### 알고 있던 것
+
+`<img>` 태그, `src` 속성, `alt` 속성, `width` 속성, `height` 속성
+
+### 몰랐던 것
