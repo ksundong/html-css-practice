@@ -1,0 +1,27 @@
+<h1>여름방학 특강 신청</h1>
+<form>
+  <fieldset>
+    <legend>수강과목</legend>
+    <label>영어회화(초급) <input type="text" value="오전 9:00~11:00" readonly/></label>
+  </fieldset>
+  <fieldset>
+    <legend>신청자</legend>
+    <ul>
+      <li>
+        <label class="reg" for="uname">이름</label>
+        <input type="text" id="uname" autofocus required />
+      </li>
+      <li>
+        <label class="reg" for="s_id">학번</label>
+        <input type="text" id="s_id" placeholder="하이픈없이 입력" required />
+      </li>
+      <li>
+        <label class="reg" for="department">학과</label>
+        <select id="department">
+          <option value="com_eng">컴퓨터공학과</option>
+        </select>
+      </li>
+    </ul>
+  </fieldset>
+  <input type="submit" value="제출하기">
+</form>
