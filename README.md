@@ -64,8 +64,8 @@
 
 ### 알고 있던 것
 
-`<form>` 태그와 `type` 속성, `method` 속성, `name` 속성, `action` 속성, `<label>` 태그
+`<form>` 태그와 `type` 속성, `method` 속성, `name` 속성, `action` 속성, `<label>` 태그, `<select>` 태그와 `<option>` 태그
 
 ### 몰랐던 것
 
-`target` 속성, `<fieldset>` 태그, `<legend>` 태그, 각종 type들의 사용법
+`target` 속성, `<fieldset>` 태그, `<legend>` 태그, 각종 type들의 사용법, `<optgroup>` 태그, `<datalist>` 태그
