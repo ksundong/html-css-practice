@@ -68,4 +68,4 @@
 
 ### 몰랐던 것
 
-`target` 속성, `<fieldset>` 태그, `<legend>` 태그
+`target` 속성, `<fieldset>` 태그, `<legend>` 태그, 각종 type들의 사용법
