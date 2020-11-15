@@ -12,7 +12,7 @@
         padding: 0;
       }
       body {
-        background: #fff;
+        background: #000;
         font-family: "Jeju Gothic", serif;
       }
       h1 {
@@ -74,6 +74,7 @@
         position: relative;
         width: 100%;
         padding: 15px 5% 10px 5%;
+        background-color: #fff;
       }
       #container section:nth-child(odd) {
         background-color: #eee;
@@ -117,6 +118,27 @@
         line-height: 3rem;
         color: white;
         text-align: center;
+      }
+
+      /* 태블릿 - 768px 이상 */
+      @media screen and (min-width: 768px) {
+        header {
+          height: 6rem;
+        }
+        #intro,
+        #map {
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+          width: 50%;
+          height: 400px;
+          float: left;
+          margin: 0;
+          border: 1px dotted #ccc;
+        }
+        #choice {
+          clear: both;
+        }
       }
     </style>
   </head>
